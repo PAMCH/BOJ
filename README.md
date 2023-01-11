@@ -1,5 +1,5 @@
-# PAMCH's BOJ Coding Test Script
+# PAMCH's BOJ Coding Test Scripts
 
-Hello.  
-This is where I manage the script that I solved using BOJ coding test.  
+Hello!  
+This is the repository that manages the scripts that I solved the BOJ coding test.  
 Thank you.
